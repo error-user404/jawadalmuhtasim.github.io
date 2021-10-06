@@ -1,0 +1,53 @@
+body {
+       text-align: center;
+       background-color: lightblue;
+      }
+      img.pic{
+        max-width: 100%;
+        height: auto;
+      }
+     p{
+        font-size: 2.5vw;
+       }
+       img.febu{
+            max-width: 100%;
+            height: auto;
+     }
+       p.bye{
+          font-size: 4vw;
+        }
+        h1{
+          font-size: 4.2vw;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        h2{
+          font-size: 3.5vw;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        h2.bla{
+          font-size: 2.9vw;
+        }
+        h3{
+          font-size: 2.5vw;
+        }
+        p.copy{
+          font-size: small;
+          padding-top: 70px;
+        }
+        h3.wow{
+          padding-top: 146px;
+        }
+        a.zarif{
+          color: black;
+          text-decoration: none;
+        }
+        p.khara{cursor: wait;}
+        img.febu{cursor: wait;}
+        iframe.vdo{
+        max-width: 100%;
+        height: auto;
+        }
+        img{
+        max-width: 100%;
+        height: auto;  
+        }
