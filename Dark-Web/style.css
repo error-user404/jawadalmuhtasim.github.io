@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    background-image: url("cover.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:  'Anonymous Pro', monospace;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   img.pic{
+     max-width: 100%;
+     height: auto;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 10px;
+   }
+   h3{
+     font-size: 3.5vw;
+     font-family: 'Black Ops One', cursive;
+     text-decoration: underline;
+   }
+   p.wiki{
+     font-size: 3vw;
+     font-family: 'Comic Neue', cursive;
+     padding-bottom: 3px;
+   }
+   p.wiki-suck{
+    font-size: 3vw;
+    font-family: 'Comic Neue', cursive;
+    padding-bottom: 5px;
+  }
+  p{
+     font-size: 3.1vw;
+     padding: 10px;
+    }
+    p.intro{
+      padding-bottom: 50px;
+    }
+    p.access{
+      font-size: 4vw;
+    }
+    p.bye{
+       font-size: 4vw;
+       font-family: 'Amita', cursive;
+     }
+     p.left{
+       font-size: 3.1vw;
+       text-align: left;
+     }
+     p.playlist {
+       color: rgb(57, 240, 21);
+       background-color: rgba(0, 0, 0, 0.418);
+       background-blend-mode: overlay;
+       font-size: 2.89vw;
+       font-family: 'Patrick Hand', cursive;
+     }
+     h1{
+       font-size: 6vw;
+       padding: 10px;
+       font-family: 'Cinzel Decorative', cursive;
+       }
+     h2{
+       font-size: 4.2vw;
+       font-family: cursive;
+       margin-left: auto;
+       margin-right: auto;
+     }
+     p.copy{
+       font-size: small;
+       padding-top: 70px;
+     }
+     a.zarif{
+       text-decoration: none;
+     }
+     iframe{
+     max-width: 100%;
+     height: auto;
+     padding-bottom: 8vw;
+     }
+     img{
+     max-width: 100%;
+     height: auto;  
+     }
+    
