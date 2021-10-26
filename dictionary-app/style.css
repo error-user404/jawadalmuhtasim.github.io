@@ -155,6 +155,7 @@ footer{
     padding: 15px 23px;
     color: #fff;
     text-align: center;
+    position: bottom
 }
 footer span a{
     color: SlateBlue;
