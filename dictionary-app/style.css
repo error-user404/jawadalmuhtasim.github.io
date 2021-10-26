@@ -149,18 +149,3 @@ ul .content::-webkit-scrollbar{
   margin-right: 5px;
   text-decoration: underline;
 }
-
-footer{
-    background: #111;
-    padding: 15px 23px;
-    color: #fff;
-    text-align: center;
-    position: bottom
-}
-footer span a{
-    color: SlateBlue;
-    text-decoration: none;
-}
-footer span a:hover{
-    text-decoration: underline;
-}
